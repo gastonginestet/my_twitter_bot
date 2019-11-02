@@ -6,4 +6,4 @@ Hi there!!! Welcome!
 
 * All credits for: [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
-* Twitter: [@gast0n_g](https://twitter.com/gast0n_g)
+* My Twitter: [@gast0n_g](https://twitter.com/gast0n_g)
