@@ -1,8 +1,9 @@
-# my_twitter_bot
+# My twitter bot!
+Hi there!!! Welcome!
 * This was made by following a tutorial step by step [here](https://www.youtube.com/watch?v=W0wWwglE1Vc).
 
 * The original project: [https://github.com/ykdojo/twitterbotsample](https://github.com/ykdojo/twitterbotsample).
 
-* All credits for: [Facebook Developer Circle: Buenos Aires](https://www.facebook.com/groups/devcbuenosaires/)
+* All credits for: [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 
 * Twitter: [@gast0n_g](https://twitter.com/gast0n_g)
